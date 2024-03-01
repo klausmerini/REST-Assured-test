@@ -1,0 +1,611 @@
+!SESSION 2024-02-22 17:46:05.309 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-02-22 17:46:30.453
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-22 17:46:31.195
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-22 17:46:46.174
+!MESSAGE Logback config file: /home/klausmerini/API Rest ASSured test/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-22 17:46:51.186
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-22 17:46:51.186
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2024-03-01 17:43:58.503 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-03-01 17:45:14.564
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-03-01 17:45:16.133
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-03-01 17:45:28.943
+!MESSAGE Logback config file: /home/klausmerini/API Rest ASSured test/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-03-01 17:45:34.267
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-01 17:45:34.267
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 17:48:01.422
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 17:48:01.436
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 17:48:12.543
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 17:48:12.545
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 17:48:12.553
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 17:48:12.554
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 17:48:12.573
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 17:48:12.577
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 17:59:11.850
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 17:59:12.106
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 17:59:22.378
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 17:59:22.384
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:00:51.174
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:00:51.184
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:00:51.186
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:00:51.187
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:00:51.196
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:00:51.203
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-01 18:01:00.304
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:588)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:488)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:367)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:319)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1079)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Expected root element 'project' but found 'dependency' (position: START_TAG seen ...ps://mvnrepository.com/artifact/org.testng/testng -->\n<dependency>... @2:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Expected root element 'project' but found 'dependency' (position: START_TAG seen ...ps://mvnrepository.com/artifact/org.testng/testng -->\n<dependency>... @2:13) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:616)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2024-03-01 18:01:00.341
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Expected root element 'project' but found 'dependency' (position: START_TAG seen ...ps://mvnrepository.com/artifact/org.testng/testng -->\n<dependency>... @2:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:588)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:488)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:367)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:319)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1079)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Expected root element 'project' but found 'dependency' (position: START_TAG seen ...ps://mvnrepository.com/artifact/org.testng/testng -->\n<dependency>... @2:13) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:616)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-01 18:01:01.609
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:588)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:488)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:367)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:319)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1079)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Expected root element 'project' but found 'dependency' (position: START_TAG seen ...ps://mvnrepository.com/artifact/org.testng/testng -->\n<dependency>... @2:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Expected root element 'project' but found 'dependency' (position: START_TAG seen ...ps://mvnrepository.com/artifact/org.testng/testng -->\n<dependency>... @2:13) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:616)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2024-03-01 18:01:01.612
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Expected root element 'project' but found 'dependency' (position: START_TAG seen ...ps://mvnrepository.com/artifact/org.testng/testng -->\n<dependency>... @2:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:588)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:488)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:367)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:319)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1079)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Expected root element 'project' but found 'dependency' (position: START_TAG seen ...ps://mvnrepository.com/artifact/org.testng/testng -->\n<dependency>... @2:13) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:616)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 18:01:23.231
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 18:01:23.250
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2024-03-01 18:04:20.935
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:405)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:388)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:279)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:520)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:126)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:110)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$1.runModal(PreloadingRepositoryHandler.java:84)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2024-03-01 18:04:20.935
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2024-03-01 18:04:33.570
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/technology/m2e/releases/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:405)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:388)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:279)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:520)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:126)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:110)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$1.runModal(PreloadingRepositoryHandler.java:84)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2024-03-01 18:04:33.571
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2024-03-01 18:04:51.093
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:405)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:388)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:279)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:520)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:126)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:110)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$1.runModal(PreloadingRepositoryHandler.java:84)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2024-03-01 18:04:51.093
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2024-03-01 18:04:53.275
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/technology/m2e/releases/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:405)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:388)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:279)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:520)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:126)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:110)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$1.runModal(PreloadingRepositoryHandler.java:84)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2024-03-01 18:04:53.275
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2024-03-01 18:10:09.345
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/test/java [in RESTAsssuredAutomation]
+  <default> (not open)
+  tests (not open)". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2024-03-01 18:10:09.577
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/test/java [in RESTAsssuredAutomation]
+  <default> (not open)
+  tests (...)". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2024-03-01 18:10:09.579
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/test/java [in RESTAsssuredAutomation]
+  <default> (not open)
+  tests (...)". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+!SESSION 2024-03-01 18:11:06.782 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-03-01 18:11:22.087
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-03-01 18:11:22.644
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-03-01 18:11:37.149
+!MESSAGE Logback config file: /home/klausmerini/API Rest ASSured test/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-03-01 18:11:40.939
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-01 18:11:40.939
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:11:54.497
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:11:54.498
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:11:54.499
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:11:54.499
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:11:54.509
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-01 18:11:54.513
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 18:13:22.553
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 18:13:22.588
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.ui 4 0 2024-03-01 20:08:11.837
+!MESSAGE Error retrieving proposal text.
+Display string:
+short
+Pattern:
+sysout
+!STACK 0
+java.lang.StringIndexOutOfBoundsException: begin 0, end 6, length 5
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4606)
+	at java.base/java.lang.String.substring(String.java:2709)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getPatternMatchRule(AbstractJavaCompletionProposal.java:929)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getStyledDisplayString(AbstractJavaCompletionProposal.java:1259)
+	at org.eclipse.jdt.internal.ui.text.java.JavaCompletionProposal.getStyledDisplayString(JavaCompletionProposal.java:186)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.handleSetData(CompletionProposalPopup.java:879)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5855)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1555)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1538)
+	at org.eclipse.swt.widgets.Table.checkData(Table.java:289)
+	at org.eclipse.swt.widgets.Table.cellDataProc(Table.java:227)
+	at org.eclipse.swt.widgets.Display.cellDataProc(Display.java:994)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_do_event(Native Method)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1597)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_iteration_do(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4514)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2024-03-01 20:08:11.860
+!MESSAGE Error retrieving proposal text.
+Display string:
+super
+Pattern:
+sysout
+!STACK 0
+java.lang.StringIndexOutOfBoundsException: begin 0, end 6, length 5
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4606)
+	at java.base/java.lang.String.substring(String.java:2709)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getPatternMatchRule(AbstractJavaCompletionProposal.java:929)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getStyledDisplayString(AbstractJavaCompletionProposal.java:1259)
+	at org.eclipse.jdt.internal.ui.text.java.JavaCompletionProposal.getStyledDisplayString(JavaCompletionProposal.java:186)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.handleSetData(CompletionProposalPopup.java:879)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5855)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1555)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1538)
+	at org.eclipse.swt.widgets.Table.checkData(Table.java:289)
+	at org.eclipse.swt.widgets.Table.cellDataProc(Table.java:227)
+	at org.eclipse.swt.widgets.Display.cellDataProc(Display.java:994)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_do_event(Native Method)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1597)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_iteration_do(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4514)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 20:09:22.365
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 20:09:22.402
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-03-01 20:09:27.987
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /home/klausmerini/eclipse/jee-2023-09/eclipse/configuration/org.eclipse.osgi/985/0/.cp/lib/testng-remote.jar /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/test-classes /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/classes /home/klausmerini/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /home/klausmerini/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /home/klausmerini/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /home/klausmerini/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /home/klausmerini/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /home/klausmerini/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /home/klausmerini/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /home/klausmerini/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /home/klausmerini/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /home/klausmerini/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /home/klausmerini/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /home/klausmerini/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /home/klausmerini/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /home/klausmerini/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /home/klausmerini/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /home/klausmerini/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /home/klausmerini/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /home/klausmerini/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /home/klausmerini/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /home/klausmerini/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /home/klausmerini/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 42555 -protocol json -d /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/test-output /tmp/testng-eclipse-386961166/testng-customsuite.xml
+java -ea -classpath /home/klausmerini/eclipse/jee-2023-09/eclipse/configuration/org.eclipse.osgi/985/0/.cp/lib/testng-remote.jar:/home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/test-classes:/home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/classes:/home/klausmerini/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/home/klausmerini/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/klausmerini/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/home/klausmerini/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/klausmerini/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/klausmerini/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/home/klausmerini/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/home/klausmerini/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/home/klausmerini/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/home/klausmerini/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/home/klausmerini/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/home/klausmerini/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/home/klausmerini/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/home/klausmerini/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/home/klausmerini/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/home/klausmerini/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/klausmerini/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/home/klausmerini/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/klausmerini/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/home/klausmerini/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/home/klausmerini/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 42555 -protocol json -d /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/test-output /tmp/testng-eclipse-386961166/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2024-03-01 20:09:29.422
+!MESSAGE Stop the socket server as it's still pending on accepting the client
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 20:11:00.434
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 20:11:00.444
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-03-01 20:11:05.846
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /home/klausmerini/eclipse/jee-2023-09/eclipse/configuration/org.eclipse.osgi/985/0/.cp/lib/testng-remote.jar /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/test-classes /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/classes /home/klausmerini/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /home/klausmerini/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /home/klausmerini/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /home/klausmerini/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /home/klausmerini/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /home/klausmerini/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /home/klausmerini/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /home/klausmerini/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /home/klausmerini/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /home/klausmerini/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /home/klausmerini/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /home/klausmerini/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /home/klausmerini/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /home/klausmerini/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /home/klausmerini/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /home/klausmerini/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /home/klausmerini/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /home/klausmerini/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /home/klausmerini/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /home/klausmerini/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /home/klausmerini/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 41631 -protocol json -d /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/test-output /tmp/testng-eclipse--978022307/testng-customsuite.xml
+java -ea -classpath /home/klausmerini/eclipse/jee-2023-09/eclipse/configuration/org.eclipse.osgi/985/0/.cp/lib/testng-remote.jar:/home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/test-classes:/home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/classes:/home/klausmerini/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/home/klausmerini/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/klausmerini/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/home/klausmerini/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/klausmerini/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/klausmerini/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/home/klausmerini/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/home/klausmerini/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/home/klausmerini/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/home/klausmerini/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/home/klausmerini/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/home/klausmerini/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/home/klausmerini/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/home/klausmerini/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/home/klausmerini/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/home/klausmerini/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/klausmerini/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/home/klausmerini/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/klausmerini/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/home/klausmerini/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/home/klausmerini/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 41631 -protocol json -d /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/test-output /tmp/testng-eclipse--978022307/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 20:14:39.650
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 20:14:39.686
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-03-01 20:14:42.089
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /home/klausmerini/eclipse/jee-2023-09/eclipse/configuration/org.eclipse.osgi/985/0/.cp/lib/testng-remote.jar /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/test-classes /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/classes /home/klausmerini/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /home/klausmerini/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /home/klausmerini/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /home/klausmerini/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /home/klausmerini/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /home/klausmerini/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /home/klausmerini/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /home/klausmerini/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /home/klausmerini/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /home/klausmerini/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /home/klausmerini/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /home/klausmerini/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /home/klausmerini/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /home/klausmerini/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /home/klausmerini/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /home/klausmerini/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /home/klausmerini/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /home/klausmerini/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /home/klausmerini/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /home/klausmerini/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /home/klausmerini/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 36725 -protocol json -d /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/test-output /tmp/testng-eclipse--1776655399/testng-customsuite.xml
+java -ea -classpath /home/klausmerini/eclipse/jee-2023-09/eclipse/configuration/org.eclipse.osgi/985/0/.cp/lib/testng-remote.jar:/home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/test-classes:/home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/classes:/home/klausmerini/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/home/klausmerini/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/klausmerini/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/home/klausmerini/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/klausmerini/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/klausmerini/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/home/klausmerini/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/home/klausmerini/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/home/klausmerini/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/home/klausmerini/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/home/klausmerini/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/home/klausmerini/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/home/klausmerini/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/home/klausmerini/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/home/klausmerini/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/home/klausmerini/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/klausmerini/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/home/klausmerini/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/klausmerini/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/home/klausmerini/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/home/klausmerini/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 36725 -protocol json -d /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/test-output /tmp/testng-eclipse--1776655399/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 20:16:46.359
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-03-01 20:16:46.379
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-03-01 20:16:48.772
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /home/klausmerini/eclipse/jee-2023-09/eclipse/configuration/org.eclipse.osgi/985/0/.cp/lib/testng-remote.jar /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/test-classes /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/classes /home/klausmerini/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /home/klausmerini/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /home/klausmerini/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /home/klausmerini/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /home/klausmerini/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /home/klausmerini/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /home/klausmerini/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /home/klausmerini/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /home/klausmerini/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /home/klausmerini/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /home/klausmerini/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /home/klausmerini/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /home/klausmerini/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /home/klausmerini/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /home/klausmerini/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /home/klausmerini/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /home/klausmerini/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /home/klausmerini/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /home/klausmerini/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /home/klausmerini/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /home/klausmerini/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /home/klausmerini/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 45707 -protocol json -d /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/test-output /tmp/testng-eclipse-2122975562/testng-customsuite.xml
+java -ea -classpath /home/klausmerini/eclipse/jee-2023-09/eclipse/configuration/org.eclipse.osgi/985/0/.cp/lib/testng-remote.jar:/home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/test-classes:/home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/target/classes:/home/klausmerini/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/home/klausmerini/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/klausmerini/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/home/klausmerini/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/home/klausmerini/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/klausmerini/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/klausmerini/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/home/klausmerini/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/home/klausmerini/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/home/klausmerini/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/home/klausmerini/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/home/klausmerini/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/home/klausmerini/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/home/klausmerini/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/home/klausmerini/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/home/klausmerini/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/home/klausmerini/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/home/klausmerini/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/klausmerini/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/home/klausmerini/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/klausmerini/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/home/klausmerini/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/home/klausmerini/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 45707 -protocol json -d /home/klausmerini/API Rest ASSured test/RESTAsssuredAutomation/test-output /tmp/testng-eclipse-2122975562/testng-customsuite.xml
