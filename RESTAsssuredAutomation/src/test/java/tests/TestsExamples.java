@@ -4,10 +4,15 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
+import static io.restassured.RestAssured.*;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import  static org.hamcrest.Matchers.*;
 import io.restassured.response.Response;
 
 public class TestsExamples 
 {
+	private String baseURI;
+
 	@Test
 	public void test1()
 	{
@@ -22,6 +27,18 @@ public class TestsExamples
 		
 		int statuscode=response.getStatusCode();
 		Assert.assertEquals(statuscode, 201);
+	}
+	
+	@Test
+	public void test2 ()
+	{
+		baseURI="https://reqres.in/api";
+		given().
+			get(baseURI+"/users?page=2").
+		then().
+			statusCode(200).
+			body("data[1].id", equalTo(8))
+			.log().all();
 	}
 
 }
