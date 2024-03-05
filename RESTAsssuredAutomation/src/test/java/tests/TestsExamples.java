@@ -40,5 +40,9 @@ public class TestsExamples
 			body("data[1].id", equalTo(8))
 			.log().all();
 	}
-
+	
+	public void testPost ()
+	{
+		
+	}
 }
