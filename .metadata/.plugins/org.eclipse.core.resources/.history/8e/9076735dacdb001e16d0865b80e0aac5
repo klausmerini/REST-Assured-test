@@ -30,9 +30,9 @@ public class GetPostExamlples
 	public void testPost ()
 	{
 		JSONObject request = new JSONObject();
-		request.put("name", "Kl Merini Castro");
+		request.put("name", "Kl Merini");
 		request.put("gender", "male");
-		request.put("email", "dominick.preache.de.castro@yahoo.com.BR");
+		request.put("email", "dominick.preacher@yahoo.com.BR");
 		request.put("status", "active" );
 		
 		System.out.println(request.toJSONString());

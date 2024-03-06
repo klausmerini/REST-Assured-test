@@ -13,23 +13,22 @@ public class PutPatchDeleteExamples
 	{
 		System.out.println("void testPut");
 		JSONObject request = new JSONObject();
-		
-		request.put("id", 0);
-		request.put("title", "Caminhada é leeeiii");
-		request.put("dueDate", "2024-03-06T21:43:14.823Z");
-		request.put("completed", true );
+		request.put("name", "Kl Merini EDIT");
+		request.put("gender", "male EDIT");
+		request.put("email", "dominick.preacher@yahoo.com.BR");
+		request.put("status", "active EDIT" );
 		
 		System.out.println(request.toJSONString());
-		String baseURI= "https://fakerestapi.azurewebsites.net/api/v1/Activities";//"https://gorest.co.in/public/v2/users";	// não funcionou
+		String baseURI= "https://gorest.co.in/public/v1/users";
 		
 		given().
 			header("Content-Type", "application/json").
-	//		header("Authorization","Bearer d6ec6fe537e854970660ae39a38535fa64c783f22d763f66331e11ebe76089e0").
+			header("Authorization","Bearer d6ec6fe537e854970660ae39a38535fa64c783f22d763f66331e11ebe76089e0").
 			body(request.toJSONString()).
 		when().
-			put(baseURI+"/20").
+			post(baseURI).
 		then().
-			statusCode(200).log().all();
+			statusCode(201).log().all();
 	}
 
 }

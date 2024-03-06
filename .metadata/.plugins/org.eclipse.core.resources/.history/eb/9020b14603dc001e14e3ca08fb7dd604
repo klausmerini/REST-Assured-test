@@ -15,7 +15,7 @@ public class PutPatchDeleteExamples
 		JSONObject request = new JSONObject();
 		
 		request.put("id", 0);
-		request.put("title", "Caminhada é leeeiii");
+		request.put("title", "string");
 		request.put("dueDate", "2024-03-06T21:43:14.823Z");
 		request.put("completed", true );
 		

@@ -15,7 +15,7 @@ public class PutPatchDeleteExamples
 		JSONObject request = new JSONObject();
 		
 		request.put("id", 0);
-		request.put("title", "Caminhada é leeeiii");
+		request.put("title", "string");
 		request.put("dueDate", "2024-03-06T21:43:14.823Z");
 		request.put("completed", true );
 		
@@ -24,12 +24,12 @@ public class PutPatchDeleteExamples
 		
 		given().
 			header("Content-Type", "application/json").
-	//		header("Authorization","Bearer d6ec6fe537e854970660ae39a38535fa64c783f22d763f66331e11ebe76089e0").
+			header("Authorization","Bearer d6ec6fe537e854970660ae39a38535fa64c783f22d763f66331e11ebe76089e0").
 			body(request.toJSONString()).
 		when().
 			put(baseURI+"/20").
 		then().
-			statusCode(200).log().all();
+			statusCode(201).log().all();
 	}
 
 }
