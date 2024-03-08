@@ -25,6 +25,7 @@ public class PutPatchDeleteExamples
 		
 		given().
 			header("Content-Type", "application/json").
+	//		header("Authorization","Bearer d6ec6fe537e854970660ae39a38535fa64c783f22d763f66331e11ebe76089e0").
 			body(request.toJSONString()).
 		when().
 			put(baseURI+"/20").
@@ -42,9 +43,11 @@ public class PutPatchDeleteExamples
 		request.put("job", "zion resident");
 		
 		System.out.println(request.toJSONString());
+		//"https://gorest.co.in/public/v2/users";	// não funcionou
 		
 		given().
 			header("Content-Type", "application/json").
+	//		header("Authorization","Bearer d6ec6fe537e854970660ae39a38535fa64c783f22d763f66331e11ebe76089e0").
 			body(request.toJSONString()).
 		when().
 		patch("https://reqres.in/"+"api/users/2").

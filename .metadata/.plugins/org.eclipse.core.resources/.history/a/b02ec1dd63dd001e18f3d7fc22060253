@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 
 public class PutPatchDeleteExamples																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								 
 {
-	private String baseURI= "https://fakerestapi.azurewebsites.net/api/v1/Activities";
 
 	@Test
 	public void testPut ()
@@ -21,33 +20,14 @@ public class PutPatchDeleteExamples
 		request.put("completed", true );
 		
 		System.out.println(request.toJSONString());
-		//"https://gorest.co.in/public/v2/users";	// não funcionou
+		String baseURI= "https://fakerestapi.azurewebsites.net/api/v1/Activities";//"https://gorest.co.in/public/v2/users";	// não funcionou
 		
 		given().
 			header("Content-Type", "application/json").
+	//		header("Authorization","Bearer d6ec6fe537e854970660ae39a38535fa64c783f22d763f66331e11ebe76089e0").
 			body(request.toJSONString()).
 		when().
 			put(baseURI+"/20").
-		then().
-			statusCode(200).log().all();
-	}
-	
-	@Test
-	public void testPatch()
-	{
-		System.out.println("void testPatch");
-		JSONObject request = new JSONObject();
-			
-		request.put("name", "morpheus");
-		request.put("job", "zion resident");
-		
-		System.out.println(request.toJSONString());
-		
-		given().
-			header("Content-Type", "application/json").
-			body(request.toJSONString()).
-		when().
-		patch("https://reqres.in/"+"api/users/2").
 		then().
 			statusCode(200).log().all();
 	}
