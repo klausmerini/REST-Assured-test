@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-08T12:59:19 BRT" name="Default suite" finished-at="2024-03-08T12:59:22 BRT" duration-ms="3652">
+  <suite started-at="2024-03-08T13:12:48 BRT" name="Default suite" finished-at="2024-03-08T13:12:52 BRT" duration-ms="3917">
     <groups>
     </groups>
-    <test started-at="2024-03-08T12:59:19 BRT" name="Default test" finished-at="2024-03-08T12:59:22 BRT" duration-ms="3652">
+    <test started-at="2024-03-08T13:12:48 BRT" name="Default test" finished-at="2024-03-08T13:12:52 BRT" duration-ms="3917">
       <class name="tests.PutPatchDeleteExamples">
-        <test-method signature="testPatch()[pri:0, instance:tests.PutPatchDeleteExamples@52102734]" started-at="2024-03-08T12:59:19 BRT" name="testPatch" finished-at="2024-03-08T12:59:22 BRT" duration-ms="3609" status="PASS">
+        <test-method signature="testDelete()[pri:0, instance:tests.PutPatchDeleteExamples@3541cb24]" started-at="2024-03-08T13:12:48 BRT" name="testDelete" finished-at="2024-03-08T13:12:52 BRT" duration-ms="3887" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPatch -->
+        </test-method> <!-- testDelete -->
       </class> <!-- tests.PutPatchDeleteExamples -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
