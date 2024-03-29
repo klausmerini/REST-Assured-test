@@ -5,5 +5,5 @@ Testes de APIs REST, feitos nas APIs dos sites : reqres, fakerestapi e gorest. C
 ![Captura de tela de 2024-03-29 19-16-05](https://github.com/klausmerini/REST-Assured-test/assets/109608171/c14114c0-d93c-484f-a0d4-0e1515d79b87)
 ![Captura de tela de 2024-03-29 19-19-30](https://github.com/klausmerini/REST-Assured-test/assets/109608171/c48aa28a-e048-4f2c-90ef-26eebb5a5fbc)
 ![Captura de tela de 2024-03-29 19-19-40](https://github.com/klausmerini/REST-Assured-test/assets/109608171/2afa93e1-60ab-45b7-a47c-f3cb4692d57d)
-
+![Captura de tela de 2024-03-29 19-19-50](https://github.com/klausmerini/REST-Assured-test/assets/109608171/5ba7860f-a7af-4963-b601-e4d1227b4e72)
 
